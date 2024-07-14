@@ -7,7 +7,7 @@
 # Job Listing with filtering
 Frontend mentor challange. 
 
-Page live at: 
+Page live at: https://piotrplotast.github.io/job-listings-with-filtering/
 
 ## Built with
 
